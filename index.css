@@ -1,0 +1,114 @@
+<style>
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+/* style for navigation bar */
+nav{
+  background-color: azure;
+  color: black;
+  display:flex;
+  justify-content: flex-start;
+  padding: 0px;
+  margin-top: 0px;
+
+}
+
+/* style for navigation links */
+nav a {
+  color: blue;
+  text-decoration: none;
+  margin-right: 10px;
+  font-size: 18px;
+
+}
+/* style for trolley and profile picture */
+.nav-icons {
+position: fixed;
+top: 0;
+right: 0;
+justify-content:space-around;
+}
+.nav-icons a{
+  display: inline-block;
+  padding: 10px
+  background-color: azure;
+  border-radius: 50%;
+  height: 200px;
+  width: 50px;
+
+}
+  
+.nav-icons{
+  display: flex;
+  justify-content: left;
+  
+  height: 100vh;
+}
+{
+body{
+  justify-content: flex-end;
+}
+
+}
+h3,h2,p{
+  text-align: center;
+}
+.p{
+  p style="background-color:hls(9,100,71);"
+}
+.container{
+  display: flex;
+  justify-content:flex-end;
+  margin: top 100px;
+  margin-left:200px:
+}
+.container p{
+  width: 50%;
+}
+.div{
+
+  display: block;
+  margin-right: auto;
+}
+.topnav {
+background-color: aquamarine;
+overflow: hidden;
+
+}
+.topnav a{
+float: left;
+color: black;
+text-align: left;
+padding: 14px 16px;
+font-size: 17px;
+justify-content: flex-start;
+}
+.p a{
+  justify-content: right;
+}
+.nav-links{
+  size-adjust: 10% 10%;
+}
+.nav-icons{
+  height: 30px;
+  width: 10%;
+  justify-content: space-around;
+}
+img{
+  height: 100px;
+  width: 50px;
+
+}
+button{
+  background-color: tomato;
+  padding: 10px 20px;
+  border-radius: 5px;
+}
+
+
+</style>
